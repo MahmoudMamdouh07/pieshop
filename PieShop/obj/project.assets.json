@@ -8570,19 +8570,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mahmo\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET core projects\\BookRating\\BookRating\\PieShop.csproj",
+      "projectUniqueName": "D:\\Software Projects\\pieshop\\PieShop\\PieShop.csproj",
       "projectName": "PieShop",
-      "projectPath": "D:\\ASP.NET core projects\\BookRating\\BookRating\\PieShop.csproj",
-      "packagesPath": "C:\\Users\\mahmo\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET core projects\\BookRating\\BookRating\\obj\\",
+      "projectPath": "D:\\Software Projects\\pieshop\\PieShop\\PieShop.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Software Projects\\pieshop\\PieShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mahmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
